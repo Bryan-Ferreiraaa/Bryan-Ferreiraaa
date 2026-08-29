@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=c0294a&center=true&vCenter=true&width=600&lines=Desarrollador+Autodidacta+%F0%9F%9A%80;Linux+%7C+Rust+%7C+Cloud+%7C+Open+Source;Optimizaci%C3%B3n+de+Sistemas+%E2%9A%A1;Creador+de+Contenido+Tech+%F0%9F%8E%AC;Dominican+Software+Engineer+%F0%9F%87%A9%F0%9F%87%B4" alt="Typing SVG"/>
-</div>
-
-<div align="center">
 
 [![Followers](https://img.shields.io/github/followers/jephersonRD?label=Seguidores&style=for-the-badge&color=c0294a)](https://github.com/jephersonRD?tab=followers)
 [![Views](https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas&color=c0294a&style=for-the-badge)](https://github.com/jephersonRD)
