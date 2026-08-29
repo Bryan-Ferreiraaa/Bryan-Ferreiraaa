@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bryan%20Ferreira&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Developer%20%7C%20Content%20Creator%%F0%9F%87%A7%F0%9F%87%B7&descSize=20&descAlignY=55" alt="Jepherson Medina"/>
+  <img src="https://vercel.app" alt="Bryan Ferreira"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=c0294a&center=true&vCenter=true&width=600&lines=Desarrollador+Autodidacta+%F0%9F%9A%80;Linux+%7C+Rust+%7C+Cloud+%7C+Open+Source;Optimizaci%C3%B3n+de+Sistemas+%E2%9A%A1;Creador+de+Contenido+Tech+%F0%9F%8E%AC;Dominican+Software+Engineer+%F0%9F%87%A9%F0%9F%87%B4" alt="Typing SVG"/>
+  <img src="https://herokuapp.com" alt="Typing SVG"/>
 </div>
 
 <div align="center">
@@ -19,36 +19,38 @@
 
 <div align="center">
 
+*Substitua os links abaixo pelas suas redes reais se desejar*
+
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="https://www.tiktok.com/@jephMD">
+<a href="https://tiktok.com">
 <img src="https://img.icons8.com/fluency/96/tiktok.png" width="70px" alt="TikTok"/><br>
-<b>TikTok</b><br><sub>@jephMD</sub>
+<b>TikTok</b><br><sub>@Bryan-Ferreiraaa</sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.youtube.com/@jephmd">
+<a href="https://youtube.com">
 <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="70px" alt="YouTube"/><br>
-<b>YouTube</b><br><sub>@jephmd</sub>
+<b>YouTube</b><br><sub>@Bryan-Ferreiraaa</sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://x.com/JephMD">
+<a href="https://x.com">
 <img src="https://img.icons8.com/fluency/96/twitterx.png" width="70px" alt="Twitter/X"/><br>
-<b>Twitter / X</b><br><sub>@JephMD</sub>
+<b>Twitter / X</b><br><sub>@Bryan-Ferreiraaa</sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.reddit.com/user/Jeph-MD/">
+<a href="https://reddit.com">
 <img src="https://img.icons8.com/fluency/96/reddit.png" width="70px" alt="Reddit"/><br>
-<b>Reddit</b><br><sub>u/Jeph-MD</sub>
+<b>Reddit</b><br><sub>u/Bryan-Ferreiraaa</sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.instagram.com/jepherson_medina/">
+<a href="https://instagram.com">
 <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="70px" alt="Instagram"/><br>
-<b>Instagram</b><br><sub>@jepherson_medina</sub>
+<b>Instagram</b><br><sub>@Bryan-Ferreiraaa</sub>
 </a>
 </td>
 </tr>
@@ -58,7 +60,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Projetos Destacados
 
 <div align="center">
 
@@ -66,78 +68,78 @@
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [Maquina-V5](https://github.com/jephersonRD/Maquina-V5)
-**Gaming en la nube con GPU — gratis**
+### ☁️ [Maquina-V5](https://github.com)
+**Gaming na nuvem com GPU — grátis**
 - NVIDIA Tesla T4 via Google Colab
-- Steam, Epic y más plataformas
-- Sistema de respaldos en Drive
+- Steam, Epic e mais plataformas
+- Sistema de backups no Drive
 
-![Stars](https://img.shields.io/github/stars/jephersonRD/Maquina-V5?style=flat-square&color=c0294a)
-![Forks](https://img.shields.io/github/forks/jephersonRD/Maquina-V5?style=flat-square&color=555)
+![Stars](https://shields.io)
+![Forks](https://shields.io)
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 [PC-Free](https://github.com/jephersonRD/PC-Free)
-**Windows 10 en el navegador sin instalación**
+### 💻 [PC-Free](https://github.com)
+**Windows 10 no navegador sem instalação**
 - GitHub Codespaces + Docker
-- Sin PC potente requerida
-- Deploy en 5 minutos
+- Sem necessidade de PC potente
+- Deploy em 5 minutos
 
-![Stars](https://img.shields.io/github/stars/jephersonRD/PC-Free?style=flat-square&color=c0294a)
-![Forks](https://img.shields.io/github/forks/jephersonRD/PC-Free?style=flat-square&color=555)
+![Stars](https://shields.io)
+![Forks](https://shields.io)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🦊 [Foxix Terminal](https://github.com/jephersonRD/foxix-terminal)
-**Emulador de terminal GPU-acelerado en Rust**
+### 🦊 [Foxix Terminal](https://github.com)
+**Emulador de terminal acelerado por GPU em Rust**
 - OpenGL 4.6 — ~12 MB RAM, 20ms startup
-- Nativo en Wayland / Hyprland / Sway
-- 100% Rust, sin dependencias de runtime
+- Nativo em Wayland / Hyprland / Sway
+- 100% Rust, sem dependências de runtime
 
-![Stars](https://img.shields.io/github/stars/jephersonRD/foxix-terminal?style=flat-square&color=c0294a)
-![Forks](https://img.shields.io/github/forks/jephersonRD/foxix-terminal?style=flat-square&color=555)
+![Stars](https://shields.io)
+![Forks](https://shields.io)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [FlinChop](https://github.com/jephersonRD/FlinChop)
-**Editor de video e imágenes con IA — gratis**
-- Alternativa open source a CapCut y Filmora
-- Windows, Linux, macOS y Android
-- Exportación 4K sin marca de agua
+### 🎬 [FlinChop](https://github.com)
+**Editor de vídeo e imagem com IA — grátis**
+- Alternativa open source ao CapCut e Filmora
+- Windows, Linux, macOS e Android
+- Exportação em 4K sem marca d'água
 
-![Stars](https://img.shields.io/github/stars/jephersonRD/FlinChop?style=flat-square&color=c0294a)
-![Forks](https://img.shields.io/github/forks/jephersonRD/FlinChop?style=flat-square&color=555)
+![Stars](https://shields.io)
+![Forks](https://shields.io)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [PC-Cloud-V2](https://github.com/jephersonRD/PC-Cloud-V2)
-**PC en la nube v2 — mejoras sobre PC-Free**
-- Acceso remoto desde cualquier dispositivo
-- Streaming de alta calidad
-- Configuración simplificada
+### ☁️ [PC-Cloud-V2](https://github.com)
+**PC na nuvem v2 — melhorias sobre o PC-Free**
+- Acesso remoto de qualquer dispositivo
+- Streaming de alta qualidade
+- Configuração simplificada
 
-![Stars](https://img.shields.io/github/stars/jephersonRD/PC-Cloud-V2?style=flat-square&color=c0294a)
-![Forks](https://img.shields.io/github/forks/jephersonRD/PC-Cloud-V2?style=flat-square&color=555)
+![Stars](https://shields.io)
+![Forks](https://shields.io)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 [ModerLauncher](https://github.com/jephersonRD/ModerLauncher)
+### 🎮 [ModerLauncher](https://github.com)
 **Launcher seguro para Minecraft Java Edition**
-- Cuentas premium y offline
-- Material Design + temas oscuros
-- Compatible Windows y Linux
+- Contas premium e offline
+- Material Design + temas escuros
+- Compatível com Windows e Linux
 
-![Stars](https://img.shields.io/github/stars/jephersonRD/ModerLauncher?style=flat-square&color=c0294a)
-![Forks](https://img.shields.io/github/forks/jephersonRD/ModerLauncher?style=flat-square&color=555)
+![Stars](https://shields.io)
+![Forks](https://shields.io)
 
 </td>
 </tr>
@@ -163,7 +165,7 @@
 
 <br>
 
-**Herramientas**
+**Ferramentas**
 <br>
 <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,github" />
 
@@ -179,41 +181,41 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">MY GITHUB STATS 📈</h2></summary>
+    <summary><h2 style="display: inline-block">MINHAS ESTATÍSTICAS DO GITHUB 📈</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-<a href="https://github.com/jephersonRD">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jephersonRD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jephersonRD&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Bryan-Ferreiraaa">
+  <img height="180em" src="https://vercel.app"/>
+  <img height="180em" src="https://vercel.app"/>
 </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jephersonRD&theme=algolia&hide_border=true&border_radius=8&ring=c0294a&fire=c0294a&currStreakLabel=c0294a" alt="GitHub Streak"/>
+  <img src="https://demolab.com" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jephersonRD&theme=react-dark&hide_border=true&area=true&color=c0294a&line=c0294a&point=fff&custom_title=Contribuciones" alt="Activity Graph"/>
+  <img src="https://vercel.app" alt="Activity Graph"/>
 </p>
 
 ---
 
 <div align="center">
 
-## ¡Gracias por Visitar mi Perfil! 🚀
+## Obrigado por Visitar meu Perfil! 🚀
 
-**Siempre abierto a colaboraciones, nuevas oportunidades y conexiones**
+**Sempre aberto a colaborações, novas oportunidades e conexões**
 
-¿Te gustó algo de lo que viste? ¡Dale una ⭐ a mis repositorios!
+Gostou de algo que viu? Deixe uma ⭐ nos meus repositórios!
 
-### 🔍 Encuentra a JephersonRD en:
+### 🔍 Encontre Bryan Ferreira em:
 **GitHub** • **TikTok** • **Instagram** • **YouTube** • **Twitter/X** • **Reddit**
 
-`#jephersonRD` `#DevRD` `#ProgramadorDominicano` `#FullStackDeveloper` `#TechContentCreator`
+`#BryanFerreira` `#DevBR` `#ProgramadorBrasileiro` `#FullStackDeveloper` `#TechContentCreator`
 
-<sub>© 2025 Jepherson Medina (@jephersonRD) • Full Stack Developer & Content Creator • República Dominicana 🇩🇴</sub>
+<sub>© 2026 Bryan Ferreira (@Bryan-Ferreiraaa) • Full Stack Developer & Content Creator • Brasil 🇧🇷</sub>
 <br>
 <sub>Python | React | Rust | Django | System Optimization | Tech Education</sub>
 
