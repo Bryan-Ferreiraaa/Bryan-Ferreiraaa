@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/jephersonRD?label=Seguidores&style=for-the-badge&color=c0294a)](https://github.com/jephersonRD?tab=followers)
-[![Views](https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas&color=c0294a&style=for-the-badge)](https://github.com/jephersonRD)
+[![Followers](https://img.shields.io/github/followers/Bryan-Ferreiraaa?label=Seguidores&style=for-the-badge&color=c0294a)](https://github.com/Bryan-Ferreiraaa?tab=followers)
+[![Views](https://komarev.com/ghpvc/?username=Bryan-Ferreiraaa&label=Visitas&color=c0294a&style=for-the-badge)](https://github.com/Bryan-Ferreiraaa)
 
 </div>
 
@@ -18,33 +18,33 @@
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="https://www.tiktok.com/@jephMD">
+<a href="https://www.tiktok.com/">
 <img src="https://img.icons8.com/fluency/96/tiktok.png" width="70px" alt="TikTok"/><br>
-<b>TikTok</b><br><sub>@jephMD</sub>
+<b>TikTok</b><br><sub>@Bryan-Ferreiraaa</sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.youtube.com/@jephmd">
+<a href="https://www.youtube.com/">
 <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="70px" alt="YouTube"/><br>
-<b>YouTube</b><br><sub>@jephmd</sub>
+<b>YouTube</b><br><sub>@Bryan-Ferreiraaa</sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://x.com/JephMD">
+<a href="https://x.com/">
 <img src="https://img.icons8.com/fluency/96/twitterx.png" width="70px" alt="Twitter/X"/><br>
-<b>Twitter / X</b><br><sub>@JephMD</sub>
+<b>Twitter / X</b><br><sub>@Bryan-Ferreiraaa</sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.reddit.com/user/Jeph-MD/">
+<a href="https://www.reddit.com">
 <img src="https://img.icons8.com/fluency/96/reddit.png" width="70px" alt="Reddit"/><br>
-<b>Reddit</b><br><sub>u/Jeph-MD</sub>
+<b>Reddit</b><br><sub>u/Bryan-Ferreiraaa</sub>
 </a>
 </td>
 <td align="center" width="20%">
-<a href="https://www.instagram.com/jepherson_medina/">
+<a href="https://www.instagram.com/">
 <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="70px" alt="Instagram"/><br>
-<b>Instagram</b><br><sub>@jepherson_medina</sub>
+<b>Instagram</b><br><sub>@Bryan-Ferreiraaa</sub>
 </a>
 </td>
 </tr>
@@ -54,7 +54,7 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Projetos Destacados
 
 <div align="center">
 
@@ -62,52 +62,52 @@
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ [Maquina-V5](https://github.com/jephersonRD/Maquina-V5)
-**Gaming en la nube con GPU — gratis**
-- NVIDIA Tesla T4 via Google Colab
-- Steam, Epic y más plataformas
-- Sistema de respaldos en Drive
+### 📈 [Contador de Inscritos Estimado](https://github.com/Bryan-Ferreiraaa/contador-de-inscritos-estimado)
+**Estimativa de contagem de inscritos em tempo real no YouTube.**
+- Fácil E Rápido
+- Celular, Computador E Dispositivos aceitos!
+- API Do YouTube Estimado
 
-![Stars](https://img.shields.io/github/stars/jephersonRD/Maquina-V5?style=flat-square&color=c0294a)
-![Forks](https://img.shields.io/github/forks/jephersonRD/Maquina-V5?style=flat-square&color=555)
+![Stars](https://img.shields.io/github/stars/Bryan-Ferreiraaa/contador-de-inscritos-estimado?style=flat-square&color=c0294a)
+![Forks](https://img.shields.io/github/forks/Bryan-Ferreiraaa/contador-de-inscritos-estimado?style=flat-square&color=555)
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 [PC-Free](https://github.com/jephersonRD/PC-Free)
-**Windows 10 en el navegador sin instalación**
-- GitHub Codespaces + Docker
-- Sin PC potente requerida
-- Deploy en 5 minutos
+### 📈 [Contador de Inscritos](https://github.com/Bryan-Ferreiraaa/contador-de-inscritos)
+**Contador De Inscritos Pela API V3 Do YouTube, Número Atualizado a Cada 2 Segundos.**
+- API v3 Atualizado
+- Fácil, Rápido e Extremamente Leve!
+- Busca De Canais Inteligente
 
-![Stars](https://img.shields.io/github/stars/jephersonRD/PC-Free?style=flat-square&color=c0294a)
-![Forks](https://img.shields.io/github/forks/jephersonRD/PC-Free?style=flat-square&color=555)
+![Stars](https://img.shields.io/github/stars/Bryan-Ferreiraaa/contador-de-inscritos?style=flat-square&color=c0294a)
+![Forks](https://img.shields.io/github/forks/Bryan-Ferreiraaa/contador-de-inscritos?style=flat-square&color=555)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🦊 [Foxix Terminal](https://github.com/jephersonRD/foxix-terminal)
-**Emulador de terminal GPU-acelerado en Rust**
-- OpenGL 4.6 — ~12 MB RAM, 20ms startup
-- Nativo en Wayland / Hyprland / Sway
-- 100% Rust, sin dependencias de runtime
+### 🟡 [Contador de Inscritos Estimado BETA](https://github.com/Bryan-Ferreiraaa/contador-de-inscritos-estimado-antecipado-testes)
+**Contador de Inscritos Estimado Com Atualizações Frequentes**
+- Pode Haver Bugs ou Erros
+- Testes Para Melhorias No Projeto Original
+- 100% Em Testes E Desenvolvimento De Testes Bugs E Erros
 
-![Stars](https://img.shields.io/github/stars/jephersonRD/foxix-terminal?style=flat-square&color=c0294a)
-![Forks](https://img.shields.io/github/forks/jephersonRD/foxix-terminal?style=flat-square&color=555)
+![Stars](https://img.shields.io/github/stars/Bryan-Ferreiraaa/contador-de-inscritos-estimado-antecipado-testes?style=flat-square&color=c0294a)
+![Forks](https://img.shields.io/github/forks/Bryan-Ferreiraaa/contador-de-inscritos-estimado-antecipado-testes?style=flat-square&color=555)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [FlinChop](https://github.com/jephersonRD/FlinChop)
-**Editor de video e imágenes con IA — gratis**
-- Alternativa open source a CapCut y Filmora
-- Windows, Linux, macOS y Android
-- Exportación 4K sin marca de agua
+### 🟡 [Contador de Inscritos API v3 BETA](https://github.com/Bryan-Ferreiraaa/contador-de-inscritos-antecipado-testes)
+**Contador de Inscritos Com A API v3 Atualizado**
+- Pode Haver Bugs ou Erros Inesperados
+- Atualizações Frequentes
+- Melhorias É Recursos Novos Em Testes
 
-![Stars](https://img.shields.io/github/stars/jephersonRD/FlinChop?style=flat-square&color=c0294a)
-![Forks](https://img.shields.io/github/forks/jephersonRD/FlinChop?style=flat-square&color=555)
+![Stars](https://img.shields.io/github/stars/Bryan-Ferreiraaa/contador-de-inscritos-antecipado-testes?style=flat-square&color=c0294a)
+![Forks](https://img.shields.io/github/forks/Bryan-Ferreiraaa/contador-de-inscritos-antecipado-testes?style=flat-square&color=555)
 
 </td>
 </tr>
@@ -143,51 +143,21 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap" />
-
-<br>
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=python,django,bash,mysql,rust" />
-
-<br>
-
-**Herramientas**
-<br>
-<img src="https://skillicons.dev/icons?i=git,linux,docker,vscode,github" />
-
-<br>
-
-**🎮 Game Development**
-<br>
-<img src="https://skillicons.dev/icons?i=godot,unity,unreal" />
-
-</div>
-
----
-
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">MY GITHUB STATS 📈</h2></summary>
+    <summary><h2 style="display: inline-block">MINHAS ESTATÍSTICAS DO GITHUB📈</h2></summary>
   </ul>
 </div>
 
 <p align="center">
-<a href="https://github.com/jephersonRD">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jephersonRD&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jephersonRD&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/Bryan-Ferreiraaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bryan-Ferreiraaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bryan-Ferreiraaa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jephersonRD&theme=algolia&hide_border=true&border_radius=8&ring=c0294a&fire=c0294a&currStreakLabel=c0294a" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Bryan-Ferreiraaa&theme=algolia&hide_border=true&border_radius=8&ring=c0294a&fire=c0294a&currStreakLabel=c0294a" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -198,20 +168,19 @@
 
 <div align="center">
 
-## ¡Gracias por Visitar mi Perfil! 🚀
+## Obrigado por visitar meu perfil! 🚀
 
-**Siempre abierto a colaboraciones, nuevas oportunidades y conexiones**
 
-¿Te gustó algo de lo que viste? ¡Dale una ⭐ a mis repositorios!
+Gostou de algo que viu? Dê uma ⭐ nos meus repositórios!
 
-### 🔍 Encuentra a JephersonRD en:
+### 🔍 Encuentra a Bryan-Ferreiraaa en:
 **GitHub** • **TikTok** • **Instagram** • **YouTube** • **Twitter/X** • **Reddit**
 
-`#jephersonRD` `#DevRD` `#ProgramadorDominicano` `#FullStackDeveloper` `#TechContentCreator`
+`#Bryan-Ferreiraaa` `#DevBR` `#ProgramadorBrasileiro` `#Desenvolvedor` `#TechTecnologia`
 
-<sub>© 2025 Jepherson Medina (@jephersonRD) • Full Stack Developer & Content Creator • República Dominicana 🇩🇴</sub>
+<sub>© 2026 Bryan-Ferreiraaa (@Bryan-Ferreiraaa) • Desenvolvedor & Tecnologia • Brasil 🇧🇷</sub>
 <br>
-<sub>Python | React | Rust | Django | System Optimization | Tech Education</sub>
+<sub>HTML | CSS | Javascript | Desenvolvedor | Dev BR Mobile | Tecnologia Tech</sub>
 
 </div>
 
