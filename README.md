@@ -8,14 +8,14 @@
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/jephersonRD?label=Seguidores&style=for-the-badge&color=c0294a)](https://github.com/jephersonRD?tab=followers)
-[![Views](https://komarev.com/ghpvc/?username=jephersonRD&label=Visitas&color=c0294a&style=for-the-badge)](https://github.com/jephersonRD)
+[![Followers](https://img.shields.io/github/followers/Bryan-Ferreiraaa?label=Seguidores&style=for-the-badge&color=c0294a)](https://github.com/Bryan-Ferreiraaa?tab=followers)
+[![Views](https://komarev.com/ghpvc/?username=Bryan-Ferreiraaa&label=Visitas&color=c0294a&style=for-the-badge)](https://github.com/Bryan-Ferreiraaa)
 
 </div>
 
 ---
 
-## 🌐 Redes Sociales
+## 🌐 Redes Sociais
 
 <div align="center">
 
