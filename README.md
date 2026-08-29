@@ -11,7 +11,7 @@
 
 ---
 
-## 🌐 Redes Sociales
+## 🌐 Redes Sociais
 
 <div align="center">
 
@@ -173,7 +173,7 @@
 
 Gostou de algo que viu? Dê uma ⭐ nos meus repositórios!
 
-### 🔍 Encuentra a Bryan-Ferreiraaa en:
+### 🔍 Encontre Bryan-Ferreiraaa em:
 **GitHub** • **TikTok** • **Instagram** • **YouTube** • **Twitter/X** • **Reddit**
 
 `#Bryan-Ferreiraaa` `#DevBR` `#ProgramadorBrasileiro` `#Desenvolvedor` `#TechTecnologia`
