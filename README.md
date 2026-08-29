@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jepherson%20Medina&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Developer%20%7C%20Content%20Creator%20%7C%20%F0%9F%87%A9%F0%9F%87%B4&descSize=20&descAlignY=55" alt="Jepherson Medina"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bryan%20Ferreira&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Desenvolvedor Com Ajuda De IA%20%7C%20%7C%20%F0%9F%87%A9%F0%9F%87%B4&descSize=20&descAlignY=55" alt="Bryan Ferreiraaa"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=c0294a&center=true&vCenter=true&width=600&lines=Desarrollador+Autodidacta+%F0%9F%9A%80;Linux+%7C+Rust+%7C+Cloud+%7C+Open+Source;Optimizaci%C3%B3n+de+Sistemas+%E2%9A%A1;Creador+de+Contenido+Tech+%F0%9F%8E%AC;Dominican+Software+Engineer+%F0%9F%87%A9%F0%9F%87%B4" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=c0294a&center=true&vCenter=true&width=600&lines=Desevolvedor+AjudaDeIA+%F0%9F%9A%80;Mobile+%7HTML+%7CSS+%7C+Open+Source;Javascript+%E2%9A%A1;Tech+%F0%9F%8E%ACBrasileiro🇧🇷+%F0%9F%87%A9%F0%9F%87%B4" alt="Typing SVG"/>
 </div>
 
 <div align="center">
