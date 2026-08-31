@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/Bryan-Ferreiraaa?label=Seguidores&style=for-the-badge&color=c0294a)](https://github.com/Bryan-Ferreiraaa?tab=followers)
-[![Views](https://komarev.com/ghpvc/?username=Bryan-Ferreiraaa&label=Visitas&color=c0294a&style=for-the-badge)](https://github.com/Bryan-Ferreiraaa)
+[![Followers](https://img.shields.io/github/followers/Bryan-Ferreiraaa?label=Seguidores&style=for-the-badge&color=695bd7)](https://github.com/Bryan-Ferreiraaa?tab=followers)
+[![Views](https://komarev.com/ghpvc/?username=Bryan-Ferreiraaa&label=Visitas&color=695bd7&style=for-the-badge)](https://github.com/Bryan-Ferreiraaa)
 
 </div>
 
